@@ -9,5 +9,6 @@
         <module name="summerva2019gitpractice2" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
