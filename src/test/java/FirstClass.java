@@ -7,7 +7,9 @@ public class FirstClass {
         System.out.println("hello Najmidin");
         System.out.println("i am working ");
                 System.out.println("i am working new one  ");
+                System.out.println("i am  here ,... ");
 
+        
 
     }
 
